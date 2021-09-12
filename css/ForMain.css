@@ -180,11 +180,11 @@ body > section.logo-nav > nav > div > ul > li:nth-child(n) > a > span:hover{
 
 
 .cont7{
-    background-image: url("/images/1420x580-2.jpg");
+    background-image: url("/images/Help.png");
     background-size: cover;
     background-repeat: no-repeat;
     width: 99.8%;
-    height: 75vh;
+    height: 107vh;
 }
 .image7{
     width: auto;
@@ -194,7 +194,7 @@ body > section.logo-nav > nav > div > ul > li:nth-child(n) > a > span:hover{
     align-items: flex-start;
     justify-content: flex-start;
     flex-direction: column;
-    margin-top: 8rem;
+    margin-top: 12rem;
     margin-left: 4rem;
 }
 .cont7 .text7 h6{
