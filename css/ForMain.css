@@ -91,14 +91,14 @@ body > section.logo-nav > nav > div > ul > li:nth-child(n) > a > span:hover{
     height:auto;
 }
 .text-h-2 h6{
-    margin-top: 5rem;
-    margin-left: -13.22rem;
+    margin-top: 14rem;
+    margin-left: -13rem;
     letter-spacing: 0.2rem;
     line-height: 1.6rem;
     font-weight: bold;
 }
 .text-h-2 p{
-    margin-top: 1.2rem;
+    margin-top: 2.2rem;
     margin-left: -13rem;
     letter-spacing: 0.2rem;
     line-height: 3rem;
@@ -129,9 +129,9 @@ body > section.logo-nav > nav > div > ul > li:nth-child(n) > a > span:hover{
     background-color: #4cc8ba;
 }
 .img-4{
-    width:118.6%;
+    width:120.6%;
     height:auto;
-    margin-left: -10.3rem;
+    margin-left: -8.52rem;
 }
 .text-h-3{
     display: flex;
